@@ -2,14 +2,15 @@
 
 # Roman Rochnyak
 
-### Python Backend Developer | Django • FastAPI • REST APIs • AI Integrations • Payments
+### Python Developer | Backend & Web Systems | AI Integrations
 
-Backend-focused software developer building practical web systems with authentication, databases, payments, AI-assisted features, deployment, and clean API design.
+I build practical web applications with Python, Django, APIs, databases, payments, and AI-powered features.
 
-**Authorized to work in the U.S. — no sponsorship required**
+I'm focused on growing into a strong software engineer: learning fast, building real projects, writing cleaner code, and improving every project I touch.
 
 [![GitHub](https://img.shields.io/badge/GitHub-RomanRochniak-111827?style=for-the-badge&logo=github)](https://github.com/RomanRochniak)
 [![Email](https://img.shields.io/badge/Email-rochnyak180405%40gmail.com-111827?style=for-the-badge&logo=gmail)](mailto:rochnyak180405@gmail.com)
+[![Capstone](https://img.shields.io/badge/Capstone-Live%20Demo-111827?style=for-the-badge&logo=render)](https://capstonegym.onrender.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-111827?style=for-the-badge)](#)
 
 </div>
@@ -18,35 +19,27 @@ Backend-focused software developer building practical web systems with authentic
 
 ## About Me
 
-I'm a backend-focused developer based in Akron, Ohio, focused on building real-world applications with **Python, Django, FastAPI, PostgreSQL, REST APIs, authentication systems, payments, and AI-powered product features**.
+I'm a Python-focused developer based in Akron, Ohio. I enjoy building real applications that combine backend logic, databases, APIs, authentication, payments, and user-facing features.
 
-I care about practical software: clean backend logic, understandable architecture, reliable API behavior, database-driven workflows, and projects that feel close to production instead of simple toy demos.
+My main strength is Python web development, especially with Django and backend systems. At the same time, I don't want to limit myself to one narrow label. I'm comfortable learning new tools, working across the stack when needed, and growing through real engineering tasks.
 
-Currently focused on growing as a **Python Backend / Full-Stack Developer** and preparing for engineering roles where I can work on APIs, internal tools, automation, web systems, and AI-assisted features.
+I'm especially interested in roles where I can contribute as a junior/apprentice/entry-level software engineer while continuing to learn from stronger developers, improve my fundamentals, and build production-quality systems.
 
 ---
 
-## Core Backend Profile
+## What I Care About
 
-```python
-developer = {
-    "name": "Roman Rochnyak",
-    "role": "Python Backend Developer",
-    "location": "Akron, Ohio",
-    "work_authorization": "Authorized to work in the U.S. — no sponsorship required",
-    "backend": ["Django", "Django REST Framework", "FastAPI", "Flask"],
-    "databases": ["PostgreSQL", "Neon", "SQLite", "SQL"],
-    "api_work": ["REST APIs", "JWT Auth", "Swagger/OpenAPI", "Validation", "CRUD"],
-    "tools": ["Docker", "Git", "GitHub", "Render", "Vercel", "Pytest"],
-    "interests": ["Backend Architecture", "AI Integrations", "Payments", "Automation"]
-}
-```
+- Building projects that solve real problems, not just tutorial demos
+- Writing backend logic that is clear, maintainable, and easy to understand
+- Learning fast and improving through feedback
+- Understanding how real systems work: databases, authentication, payments, deployment, APIs, and reliability
+- Growing into a strong engineer who can take responsibility for real product features
 
 ---
 
 ## Tech Stack
 
-### Backend
+### Main Focus
 
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=092E20)
@@ -54,11 +47,14 @@ developer = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
 
-### Databases
+### Databases & APIs
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Neon](https://img.shields.io/badge/Neon-111827?style=for-the-badge&logo=neon&logoColor=00E599)
 ![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![REST API](https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT%20Auth-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-111827?style=for-the-badge&logo=swagger&logoColor=85EA2D)
 
 ### Tools & Deployment
 
@@ -69,15 +65,14 @@ developer = {
 ![Render](https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=46E3B7)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Payments, AI & Frontend
+### Frontend & Product Features
 
-![Stripe](https://img.shields.io/badge/Stripe-111827?style=for-the-badge&logo=stripe&logoColor=635BFF)
-![Google Pay](https://img.shields.io/badge/Google%20Pay-111827?style=for-the-badge&logo=googlepay&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-111827?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Stripe](https://img.shields.io/badge/Stripe-111827?style=for-the-badge&logo=stripe&logoColor=635BFF)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-111827?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
 
 ---
 
@@ -87,45 +82,47 @@ developer = {
 <tr>
 <td width="50%" valign="top">
 
-### RoshaClub / CapstoneGym  
+### RoshaClub / CapstoneGym
+
 **Gym Membership Management System with AI Fitness Assistant**
 
-Full-stack Django application for gym membership workflows, payments, protected member features, trainer profiles, training programs, community interactions, and AI-assisted fitness support.
+A full-stack Django application for gym membership workflows. Built as a practical capstone-style project with authentication, protected pages, membership plans, payments, training programs, trainer profiles, community features, and an AI assistant.
 
-**Key features:**
+**Highlights:**
 
-- User authentication and protected member pages
-- Membership plans and membership status handling
+- Django-based full-stack web application
+- User authentication and protected member areas
+- Membership plan system
 - Stripe payments with Google Pay support
 - Success and failure payment flows
 - PostgreSQL database hosted on Neon
-- Deployment on Render
+- Deployed on Render
 - AI Fitness Assistant using Ollama locally and Gemini API in cloud mode
-- DB-backed chat sessions and messages
-- Context-aware AI responses grounded in site data
-- Rate limiting, timeout handling, and short-term caching
-- AJAX-powered community feed with posts, likes, edits, and deletes
+- Database-backed chat sessions and messages
+- Context-aware assistant responses based on site data
+- Community feed with AJAX posts, likes, edits, and deletes
 - CSRF-aware requests and ownership validation
-- Admin-side management for gym data
+- Admin management for gym content
 
-**Tech:** Django, Python, PostgreSQL, Neon, Stripe, Google Pay, Gemini API, Ollama, JavaScript, Bootstrap, Render
+**Tech:** Python, Django, PostgreSQL, Neon, Stripe, Gemini API, Ollama, JavaScript, Bootstrap, Render
 
 [Live Demo](https://capstonegym.onrender.com/) • [Repository](https://github.com/RomanRochniak/CapstoneGym)
 
 </td>
 <td width="50%" valign="top">
 
-### Andriy Rochnyak Photography  
+### Andriy Rochnyak Photography
+
 **Real Client Portfolio Website**
 
-Responsive production website for a professional photographer, built and maintained as a real freelance/client project.
+A responsive production website for a professional photographer, built and maintained as a real client project.
 
-**Key features:**
+**Highlights:**
 
 - Modern responsive UI
 - High-resolution photography galleries
 - Custom sliders and interactive image layouts
-- Animated sections and polished page transitions
+- Animated sections and polished transitions
 - Awards and publications pages
 - SEO improvements
 - Mobile optimization
@@ -142,15 +139,14 @@ Responsive production website for a professional photographer, built and maintai
 
 ---
 
-## Professional Experience
+## Experience
 
 ### Backend Engineering Intern — Springer Capital  
 **Remote | 09/2025 – 12/2025**
 
 - Built and maintained backend services using Flask/Django and PostgreSQL.
 - Designed REST APIs with JWT authentication, request validation, and Swagger/OpenAPI documentation.
-- Containerized services with Docker.
-- Worked with GitHub branches, pull requests, and CI/CD workflows.
+- Worked with Docker, GitHub branches, pull requests, and CI/CD workflows.
 - Wrote backend tests with Pytest.
 - Created technical documentation and improved service reliability during internship delivery.
 
@@ -164,24 +160,28 @@ Responsive production website for a professional photographer, built and maintai
 
 ---
 
-## What I'm Building & Learning
+## Current Learning Direction
 
-- Production-style backend systems with Django and FastAPI
-- REST API architecture, validation, authentication, and permissions
-- PostgreSQL schema design, migrations, indexing basics, and query debugging
-- Docker, Linux workflows, deployment, and environment configuration
+I'm currently focused on becoming stronger in:
+
+- Python backend development
+- Django and FastAPI
+- REST API architecture
+- Authentication and permissions
+- PostgreSQL and database design
+- Docker and Linux workflows
 - Testing with Pytest
-- AI integrations with local models and cloud APIs
-- Payment workflows with Stripe
-- Clean code, maintainable backend structure, and documentation
+- Deployment and environment configuration
+- AI integrations in real applications
+- Clean code and maintainable project structure
 
 ---
 
 ## Certifications
 
-- **CS50 Web Programming with Python and JavaScript** — Harvard University
-- **Foundational C# with Microsoft** — freeCodeCamp / Microsoft
-- **Backend Engineering Internship Certificate** — Springer Capital
+- [CS50 Web Programming with Python and JavaScript — Harvard University](https://certificates.cs50.io/77ce24f2-e0af-4590-bc64-9779f80e41f6.pdf?size=letter)
+- [Foundational C# with Microsoft — freeCodeCamp / Microsoft](https://www.freecodecamp.org/certification/fcc-99e9a1ff-66bd-449a-b11e-f09130949580/foundational-c-sharp-with-microsoft)
+- [Backend Engineering Internship Certificate — Springer Capital](https://drive.google.com/file/d/1jvLdIsw-b_2npDWxBGYHoHjqfovp1LoG/view)
 
 ---
 
@@ -199,7 +199,7 @@ Responsive production website for a professional photographer, built and maintai
 
 ## Contact
 
-I'm open to **Python Backend Developer**, **Full-Stack Developer**, **Software Engineering Internship**, **Apprenticeship**, and **Entry-Level Software Developer** opportunities.
+I'm open to software engineering internships, apprenticeships, entry-level developer roles, Python developer roles, and backend/full-stack opportunities.
 
 - Email: [rochnyak180405@gmail.com](mailto:rochnyak180405@gmail.com)
 - GitHub: [github.com/RomanRochniak](https://github.com/RomanRochniak)
